@@ -26,8 +26,7 @@ The Solution was to create a New Active Directory Domain named “NMG.com”. St
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Created and configured the NMG.com Active Directory domain for Northstar Medical Group
 * Built NMG.com domain from scratch
-* Applied Active Directory concepts related to identity management, organization, and access control
-* Gained hands-on experience configuring a Windows Server Active Directory environment in a virtual machine
-* Established the foundation for centralized user and computer management
+* Designed department-based OU structure (Finance, HR, IT, Operations)
+* Implemented RBAC with security groups mapped to each department
+* Provisioned 15 user accounts with consistent naming conventions and attribute standards
